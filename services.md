@@ -5,3 +5,5 @@
 - working with instrument suppliers in relation to the design and management of field experiments
 - technical representative for LiCOR and other such companies (?) .. competing with ...?
 - data management services fit for mining companies and utilities
+- safe data repatriation (services and products)
+  
